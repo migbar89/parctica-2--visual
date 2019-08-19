@@ -1,0 +1,10 @@
+\\VBOXSVR\Documentos\Auto\Auto\Auto\bin\Debug\Auto.exe
+\\VBOXSVR\Documentos\Auto\Auto\Auto\bin\Debug\Auto.pdb
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.csprojAssemblyReference.cache
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.FrmAuto.resources
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.Properties.Resources.resources
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.csproj.GenerateResource.cache
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.exe
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.pdb
+\\VBOXSVR\Documentos\Auto\Auto\Auto\obj\x86\Debug\Auto.Frmvisualizar.resources
